@@ -38,3 +38,34 @@ A smart driving ecosystem designed to transform every trip into a safe, connecte
 ---
 
 ## 🏗️ System Architecture
+
+---
+
+## 📸 App Showcase
+
+### 🗺️ Navigation & Driving HUD 🚘
+
+| Real-Time HUD & ML Score 🚗 | Predictive Route & Weather 🏎️ | Drive Hub Analytics 🚘 |
+| :---: | :---: | :---: |
+| <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/532a361f-001b-4aee-b711-34f2f877b4dc" /> | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/e423d187-04e5-4bdd-af90-87dbd197985d" /> | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/041ecb98-e344-4abe-ac8f-4255370ef12c" /> |
+| *Live speed limit & ML driving score[cite: 2]* | *Weather-aware ETA preview* | *Trip history & quest hub[cite: 4]* |
+
+### 🏎️ Garage, Profile & Community 🚘
+
+| Digital Garage 🏎️ | Driver Profile & AI Render 🚗 | Community Convoy 🚘 |
+| :---: | :---: | :---: |
+| <img src="./assets/garage.png" width="260" alt="Digital Garage"/> | <img src="./assets/profile.png" width="260" alt="Driver Profile"/> | <img src="./assets/convoy.png" width="260" alt="Community Convoy"/> |
+| *Detailed vehicle specs[cite: 7]* | *Ranks, XP & AI Vehicle generator[cite: 5]* | *Group driving & live convoy[cite: 1]* |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites 🚘
+* iOS 15.0+ / Android 10+
+* Git & Package Manager
+
+### Installation 🚗💨
+
+1. **Clone the repository**
+   ```bash
