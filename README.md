@@ -54,9 +54,7 @@ A smart driving ecosystem designed to transform every trip into a safe, connecte
 
 | Digital Garage 🏎️ | Driver Profile & AI Render 🚗 | Community Convoy 🚘 |
 | :---: | :---: | :---: |
-| <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/c77c3631-0021-49dd-9739-29d3716ab87b" />
- | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/ed952069-4099-4e7f-a874-741816352551" />
- | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/ee17f1a2-ce96-44dc-b68c-1895ab078966" /> |
+| <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/c77c3631-0021-49dd-9739-29d3716ab87b" /> | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/ed952069-4099-4e7f-a874-741816352551" /> | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/ee17f1a2-ce96-44dc-b68c-1895ab078966" /> |
 | *Detailed vehicle specs[cite: 7]* | *Ranks, XP & AI Vehicle generator[cite: 5]* | *Group driving & live convoy[cite: 1]* |
 
 ---
