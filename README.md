@@ -47,14 +47,16 @@ A smart driving ecosystem designed to transform every trip into a safe, connecte
 
 | Real-Time HUD & ML Score 🚗 | Predictive Route & Weather 🏎️ | Drive Hub Analytics 🚘 |
 | :---: | :---: | :---: |
-| <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/532a361f-001b-4aee-b711-34f2f877b4dc" /> | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/e423d187-04e5-4bdd-af90-87dbd197985d" /> | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/041ecb98-e344-4abe-ac8f-4255370ef12c" /> |
+| <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/342942e5-fe8a-4593-b7bd-12c565417cee" /> | <<img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/028f9ae2-8c42-4128-a4d0-ebce1d2113c8" /> | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/56a13579-42e4-4282-a027-b24f3ef8217e" /> |
 | *Live speed limit & ML driving score[cite: 2]* | *Weather-aware ETA preview* | *Trip history & quest hub[cite: 4]* |
 
 ### 🏎️ Garage, Profile & Community 🚘
 
 | Digital Garage 🏎️ | Driver Profile & AI Render 🚗 | Community Convoy 🚘 |
 | :---: | :---: | :---: |
-| <img src="./assets/garage.png" width="260" alt="Digital Garage"/> | <img src="./assets/profile.png" width="260" alt="Driver Profile"/> | <img src="./assets/convoy.png" width="260" alt="Community Convoy"/> |
+| <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/c77c3631-0021-49dd-9739-29d3716ab87b" />
+ | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/ed952069-4099-4e7f-a874-741816352551" />
+ | <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/ee17f1a2-ce96-44dc-b68c-1895ab078966" /> |
 | *Detailed vehicle specs[cite: 7]* | *Ranks, XP & AI Vehicle generator[cite: 5]* | *Group driving & live convoy[cite: 1]* |
 
 ---
